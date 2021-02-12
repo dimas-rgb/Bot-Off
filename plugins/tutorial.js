@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
 Tutorial Buat Bot WA:
-Credit: *~Drawl Nag*
+Credit: *~Dimas Noprian*
 
 Ketik di *[TERMUX]*
 1) $pkg install git
@@ -21,7 +21,7 @@ Penginstalannya cuy :)
 
 _Bisa kalian liat tutorialnya di_
 *Youtube kami:*
-https://www.youtube.com/c/DrawlNag
+https://www.youtube.com
 `.trim(), m)
 }
 handler.help = ['tutorial']
