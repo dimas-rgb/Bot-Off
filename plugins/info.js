@@ -10,21 +10,18 @@ https://github.com/Arya274/Arya-BOT3
 
 *Sosmed :*
 Kritik kami di sosmed ataupun YouTube.
-Instagram: @arpunchs
-➥ YouTube:
-youtube.com/DrawlNag
+Instagram:---
+➥ YouTube:---
 
 *Thanks To :*
 Nurotomo
-MfarelS
-ST4RZ
 Dan kawan yang lain :)
 
 ╠═〘 DONASI 〙 ═
-╠➥ SmartFren: 0882-3543-5804
-╠➥ Tsel: 0813-5730-2007
-╠➥ Indosat: 0815-1586-0089
-║>Request? Wa.me/6281357302007
+╠➥ SmartFren: ---
+╠➥ Tsel: ---
+╠➥ Indosat: 0858-0953-5507
+║>Request? Wa.me/6285809535507
 ╠═〘 INFO BOT 〙 ═
 `.trim(), m)
 }
